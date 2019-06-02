@@ -1924,3 +1924,8 @@ www-edge
 www-origin
 wwworigin
 wwwedge
+trade
+ams
+ams1
+ams2
+presale
